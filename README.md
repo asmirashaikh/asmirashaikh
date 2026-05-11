@@ -49,13 +49,7 @@ AI Engineering Student • Building Intelligent Systems • Future ML Engineer
 
 ---
 
-# 📈 Most Used Languages
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmirashaikh&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 # 🚀 Current Goals
 
